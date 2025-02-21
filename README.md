@@ -2,7 +2,7 @@
 # CSE 12 PA7: Heaps and Priority Queue
 
 
-## Due date: Thursday, November 21st @ 11:59 PM PST
+## Due date: Thursday, February 27st @ 11:59 PM PST
 
 There is an FAQ post on Piazza. Please read that post first if you have any questions.
 
